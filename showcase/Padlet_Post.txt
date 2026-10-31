@@ -1,0 +1,29 @@
+Title
+-----
+Smart Study Planner: From Deadlines to a Clear Next Step
+
+Representative Image
+--------------------
+Smart-Study-Planner-Showcase.png
+
+Description (approximately 105 words)
+-------------------------------------
+Smart Study Planner is a terminal-based Python application for
+university students who want a clearer plan for coursework. Users can add,
+view, search, filter, edit, complete, and delete study tasks, with changes
+saved locally in a text file. The project's distinctive Smart Study Advisor
+calculates an explainable urgency score from task importance and deadline
+distance, recommends the most urgent incomplete task, and explains why. Users
+can also generate a daily study plan that divides their available time
+according to urgency while requiring at least 30 minutes per scheduled task.
+Built with classes, file input/output, advanced flow control, and automated
+testing, the program uses only Python's standard library.
+
+Image Caption
+-------------
+Smart Study Advisor, the main planning menu, and an urgency-based daily study
+plan.
+
+Tags
+----
+#COMP9001 #Python #StudyPlanner #Productivity #TerminalApp

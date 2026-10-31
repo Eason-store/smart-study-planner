@@ -1,0 +1,7 @@
+task_id,name,course,due_date,priority,completed
+1,Finish COMP9001 Project,COMP9001,2026-11-03,High,False
+2,"Review notes, chapters 1-3",COMP9001,2026-11-01,Medium,False
+3,Complete INFO5990 quiz,INFO5990,2026-10-30,High,False
+4,Prepare a comprehensive revision checklist for the COMP9001 final project and presentation,COMP9001,2026-11-20,Medium,False
+5,Read programming chapter,COMP9001,2026-11-08,Low,False
+6,Organise study notes,COMP9001,2026-10-31,Low,True
